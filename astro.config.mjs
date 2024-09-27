@@ -2,5 +2,5 @@
 import { defineConfig } from 'astro/config'
 
 export default defineConfig({
-  site: 'https://zoulfai.github.io',
+  site: 'https://zoulfai.github.io/astrop/',
 })
