@@ -15,7 +15,7 @@ Je crée des flyers attractifs et faciles à lire pour promouvoir des produits, 
 
 <img
   class="fit-picture"
-  src="/assets/designer/flyer.png"
+  src="/astrop/assets/designer/flyer.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
@@ -24,7 +24,7 @@ Je conçois des logos uniques qui représentent l’identité visuelle d’une m
 
 <img
   class="fit-picture"
-  src="/assets/designer/logo.png"
+  src="/astrop/assets/designer/logo.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 ### 02 : Création de support de presentation   
@@ -32,7 +32,7 @@ Je réalise des présentations visuellement claires et engageantes , en mettant 
 
 <img
   class="fit-picture"
-  src="/assets/designer/support.png"
+  src="/astrop/assets/designer/support.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 ### 01 : Création de Mockup et visuelle 
@@ -40,7 +40,7 @@ J'utilise des maquettes qui simulent l’apparence finale d’un produit, aidant
 
 <img
   class="fit-picture"
-  src="/assets/designer/mockup.png"
+  src="/astrop/assets/designer/mockup.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
