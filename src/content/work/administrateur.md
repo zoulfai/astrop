@@ -15,7 +15,7 @@ Dans ce projet, j'ai été chargé de migrer une application de sécurisation de
 
 <img
   class="fit-picture"
-  src="/assets/adminsys/Nimbus-Corp.png"
+  src="/astrop/assets/adminsys/Nimbus-Corp.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 ### 11 : Évaluez et améliorez le niveau de sécurité d'un domaine Windows et de l'Active Directory associé
@@ -23,7 +23,7 @@ Dans ce projet, j'ai mené un audit exhaustif de la sécurité d'un domaine Wind
 
 <img
   class="fit-picture"
-  src="/assets/adminsys/openpharma.png"
+  src="/astrop/assets/adminsys/openpharma.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 ### 10 : Sécurisez le réseau d'une grande entreprise
@@ -31,7 +31,7 @@ Dans ce projet, j'ai été chargé de migrer une application de sécurisation de
 
 <img
   class="fit-picture"
-  src="/assets/adminsys/Clinique-de-Frontignan.png"
+  src="/astrop/assets/adminsys/Clinique-de-Frontignan.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 ### 09 : Mettez en place une nouvelle solution de sauvegarde
