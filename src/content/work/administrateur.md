@@ -39,7 +39,7 @@ Dans ce projet, j'ai testé deux stratégies de sauvegarde distinctes pour une m
 
 <img
   class="fit-picture"
-  src="/assets/adminsys/mairie-logo-mareuil-logo.png"
+  src="/astrop/assets/adminsys/mairie-logo-mareuil-logo.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 ### 08 : Gérez le parc informatique d'une PME
@@ -47,7 +47,7 @@ Dans ce projet, j'ai géré le parc informatique d'une PME en mettant en place u
 
 <img
   class="fit-picture"
-  src="/assets/adminsys/barzini.png"
+  src="/astrop/assets/adminsys/barzini.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
@@ -56,7 +56,7 @@ Dans ce projet, j'ai supervisé le système d'information d'une entreprise en me
 
 <img
   class="fit-picture"
-  src="/assets/adminsys/media-sante-logo.png"
+  src="/astrop/assets/adminsys/media-sante-logo.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
@@ -66,7 +66,7 @@ Dans ce projet, j'ai configuré les équipements réseau d'un nouveau site compo
 
 <img
   class="fit-picture"
-  src="/assets/adminsys/impact.png"
+  src="/astrop/assets/adminsys/impact.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
@@ -76,7 +76,7 @@ Dans ce projet, j'ai configuré un environnement ADDS-RODC-VPN pour permettre un
 
 <img
   class="fit-picture"
-  src="/assets/adminsys/open-blank-logo.png"
+  src="/astrop/assets/adminsys/open-blank-logo.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
@@ -86,7 +86,7 @@ Dans ce projet, j'ai mis en place des services web sécurisés pour un projet EX
 
 <img
   class="fit-picture"
-  src="/assets/adminsys/rainbow.png"
+  src="/astrop/assets/adminsys/rainbow.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
@@ -96,7 +96,7 @@ Dans ce projet, j'ai déployé une architecture n-tiers pour une PME, en configu
 
 <img
   class="fit-picture"
-  src="/assets/adminsys/beesafe.png"
+  src="/astrop/assets/adminsys/beesafe.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
@@ -106,7 +106,7 @@ Dans ce projet, j'ai conçu et mis en place le réseau local d'une startup, en �
 
 <img
   class="fit-picture"
-  src="/assets/adminsys/hillstart.png"
+  src="/astrop/assets/adminsys/hillstart.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
@@ -116,7 +116,7 @@ Dans ce projet, j'ai géré les demandes quotidiennes de l'entreprise OpenShowro
 
 <img
   class="fit-picture"
-  src="/assets/adminsys/openshowroom.png"
+  src="/astrop/assets/adminsys/openshowroom.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
