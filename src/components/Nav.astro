@@ -68,7 +68,7 @@ const textLinks: { label: string; href: string }[] = [
 								{
 									active:
 										Astro.url.pathname === href ||
-										(href !== '/astrop' && Astro.url.pathname.startsWith(href)),
+										(href !== '/astrop/' && Astro.url.pathname.startsWith(href)),
 								},
 							]}
 							href={href}
