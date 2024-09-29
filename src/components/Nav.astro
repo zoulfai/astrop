@@ -4,7 +4,7 @@ import ThemeToggle from './ThemeToggle.astro';
 
 /** Main menu items */
 const textLinks: { label: string; href: string }[] = [
-	{ label: 'Acceuil', href: '/astrop' },
+	{ label: 'Acceuil', href: '/astrop/' },
 	{ label: 'Projets', href: '/astrop/work/' },
 	{ label: 'À propos', href: '/astrop/about/' },
 ];
@@ -68,7 +68,7 @@ const textLinks: { label: string; href: string }[] = [
 								{
 									active:
 										Astro.url.pathname === href ||
-										(href !== '/' && Astro.url.pathname.startsWith(href)),
+										(href !== '/astrop/' && Astro.url.pathname.startsWith(href)),
 								},
 							]}
 							href={href}
